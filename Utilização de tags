@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ativiade softex</title>
+</head>
+<body>
+    <h1> Atividade Softex Css/html </h1>
+    <h2> logos :</h2>
+    <p> logo css: </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100">
+    <p> logo html: </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="160">
+    <P> Qual o mais bonito ?</P>
+    <button type="submit">Logo Css</button>
+    <button type="submit">Logo Html</button>
+
+</body>
+</html>
